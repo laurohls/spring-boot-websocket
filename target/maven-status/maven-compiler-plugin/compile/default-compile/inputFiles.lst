@@ -1,0 +1,7 @@
+/home/lauro/Projetos/Pessoal/websockets/src/main/java/br/com/eyefuture/websockets/WebsocketsApplication.java
+/home/lauro/Projetos/Pessoal/websockets/src/main/java/br/com/eyefuture/websockets/model/UserResponse.java
+/home/lauro/Projetos/Pessoal/websockets/src/main/java/br/com/eyefuture/websockets/ServletInitializer.java
+/home/lauro/Projetos/Pessoal/websockets/src/main/java/br/com/eyefuture/websockets/config/WebSocketConfig.java
+/home/lauro/Projetos/Pessoal/websockets/src/main/java/br/com/eyefuture/websockets/config/SchedulerConfig.java
+/home/lauro/Projetos/Pessoal/websockets/src/main/java/br/com/eyefuture/websockets/model/User.java
+/home/lauro/Projetos/Pessoal/websockets/src/main/java/br/com/eyefuture/websockets/resource/UserController.java

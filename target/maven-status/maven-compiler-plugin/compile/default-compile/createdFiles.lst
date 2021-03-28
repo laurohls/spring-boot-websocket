@@ -1,0 +1,7 @@
+br/com/eyefuture/websockets/WebsocketsApplication.class
+br/com/eyefuture/websockets/ServletInitializer.class
+br/com/eyefuture/websockets/config/WebSocketConfig.class
+br/com/eyefuture/websockets/model/UserResponse.class
+br/com/eyefuture/websockets/model/User.class
+br/com/eyefuture/websockets/resource/UserController.class
+br/com/eyefuture/websockets/config/SchedulerConfig.class
